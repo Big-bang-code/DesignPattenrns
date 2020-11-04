@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_191"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="E:/BigTest/jar/asm.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/BigTest/jar/asm-commons-3.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/BigTest/jar/asm-tree-3.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/BigTest/jar/cglib-2.1_2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
